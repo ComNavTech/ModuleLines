@@ -1,0 +1,1 @@
+This repository includes detailed information about the hardware and firmware specifications, commands, configuration methods, and necessary programming notices for the SinoGNSS series modules. It serves as a comprehensive guide to help you set up, configure, and troubleshoot your GNSS modules.
